@@ -4,3 +4,4 @@
 2번 과제 : SE02 system context diagram 폴더에 들어있습니다.  
 3번 과제 : SE03 object structuring diagram 폴더에 들어있습니다.  
 4번 과제 : SE04 Dynamic Modeling 폴더에 들어있습니다.  
+5번 과제 : SE05 Design model 폴더에 들어있습니다.
